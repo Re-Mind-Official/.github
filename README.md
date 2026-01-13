@@ -45,7 +45,7 @@ Unsere Repositories beinhalten:
 - GitHub: [@Volt1480](https://github.com/Volt1480)
 
 **Sebastian Ruppert**  
-- GitHub: [@sebberuppi-lang]([https://github.com/Volt1480](https://github.com/sebberuppi-lang))
+- GitHub: [@sebberuppi-lang](https://github.com/sebberuppi-lang)
 
 ---
 
