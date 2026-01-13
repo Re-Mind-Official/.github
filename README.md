@@ -24,7 +24,7 @@ Wir entwickeln, experimentieren und denken Ideen neu – von Softwareprojekten �
 - 🧠 Konzepte, Prototypen & Experimente
 - 🔐 Security & Best Practices
 - 🎨 Kreative Tech-Ideen
-
+- 🎮 Mod-Development ( Project Zomboid und einige weitere Spiele )
 ---
 
 ## 📂 Repositories
@@ -43,6 +43,9 @@ Unsere Repositories beinhalten:
 
 **Dominik Michelitsch**  
 - GitHub: [@Volt1480](https://github.com/Volt1480)
+
+**Sebastian Ruppert**  
+- GitHub: [@sebberuppi-lang]([https://github.com/Volt1480](https://github.com/sebberuppi-lang))
 
 ---
 
