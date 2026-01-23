@@ -36,6 +36,7 @@ Clean architecture • scalable systems • community-driven
 ## 📫 Contact
 - 📧 **recodeofficial1780@gmail.com**
 - 📧 **domidestruction@gmail.com**
+- 📧 **sebbe.ruppi@gmail.com**
 
 ---
 
