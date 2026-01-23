@@ -2,33 +2,33 @@
 <h3 align="center">Modular Game Mod Development</h3>
 
 <p align="center">
-Building modular, maintainable and high-quality game mods.<br/>
+Building modular, maintainable, and high-quality game mods.<br/>
 Clean architecture • scalable systems • community-driven
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=re-code&label=Org%20views&color=0e75b6&style=flat" alt="re-code" />
+  <img src="https://komarev.com/ghpvc/?username=re-code&label=Org%20views&color=0e75b6&style=flat" alt="re-code" />
 </p>
 
 ---
 
 ## 🚀 About Us
-- 🔭 Currently working on **Re:Code – Modular Game Mod Development**
-- 🧱 We design **modular systems & frameworks** for game mods
-- 🛠️ We refactor, improve and maintain existing mods
+- 🔭 Actively developing **Re:Code – Modular Game Mod Development**
+- 🧱 Designing **modular systems & frameworks** for game mods
+- 🛠️ Refactoring, improving, and maintaining existing mods
 - 🤝 Open-source & community-focused development
 
 ---
 
 ## 🧠 Core Focus
-- 💡 Clean & maintainable architecture
+- 💡 Clean, maintainable architecture
 - 📦 Modular and reusable components
 - 📈 Scalable mod systems
-- 🧪 Tooling, frameworks & utilities
+- 🧪 Tooling, frameworks, and utilities
 
 ---
 
-## 💬 Ask us about
+## 💬 Ask Us About
 **C#, C++, Lua, Python, Game Modding, Reverse Engineering, Tooling, Systems Design**
 
 ---
@@ -39,7 +39,7 @@ Clean architecture • scalable systems • community-driven
 
 ---
 
-## 🌐 Connect with us
+## 🌐 Connect With Us
 <p align="left">
   <a href="https://twitter.com/mic36404" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" />
@@ -48,7 +48,6 @@ Clean architecture • scalable systems • community-driven
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
   </a>
 </p>
-
 
 ---
 
@@ -61,9 +60,10 @@ Clean architecture • scalable systems • community-driven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
+
 ---
 
-## :bust_in_silhouette: Maintainer
+## 👥 Maintainers
 
 **Dominik Michelitsch**  
 - GitHub: [@Volt1480](https://github.com/Volt1480)
@@ -75,11 +75,11 @@ Clean architecture • scalable systems • community-driven
 
 ## 📊 GitHub Stats
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-code&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-code&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=re-code&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=re-code&show_icons=true&locale=en" />
 </p>
 
 ---
